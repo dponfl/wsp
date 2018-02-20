@@ -27,23 +27,23 @@
           href: 'home',
           text: 'NAV_HOME',
         },
-        {
-          href: 'conditions',
-          text: 'NAV_CONDITIONS',
-        },
-        {
-          href: 'insurance',
-          text: 'NAV_INSURANCE',
-        },
+        // {
+        //   href: 'conditions',
+        //   text: 'NAV_CONDITIONS',
+        // },
+        // {
+        //   href: 'insurance',
+        //   text: 'NAV_INSURANCE',
+        // },
 
       ];
 
       vm.subscription = [
-        {
-          href: 'http://www.youtube.com',
-          text: 'FOOTER_SUBSCRIBE_YOUTUBE',
-          img: '/images/youtube.png',
-        },
+        // {
+        //   href: 'http://www.youtube.com',
+        //   text: 'FOOTER_SUBSCRIBE_YOUTUBE',
+        //   img: '/images/youtube.png',
+        // },
         {
           href: 'http://www.facebook.com',
           text: 'FOOTER_SUBSCRIBE_FACEBOOK',

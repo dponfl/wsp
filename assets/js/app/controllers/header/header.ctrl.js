@@ -46,14 +46,14 @@
           href: 'home',
           text: 'NAV_HOME',
         },
-        {
-          href: 'conditions',
-          text: 'NAV_CONDITIONS',
-        },
-        {
-          href: 'insurance',
-          text: 'NAV_INSURANCE',
-        },
+        // {
+        //   href: 'conditions',
+        //   text: 'NAV_CONDITIONS',
+        // },
+        // {
+        //   href: 'insurance',
+        //   text: 'NAV_INSURANCE',
+        // },
 /*
         {
           href: 'discount',

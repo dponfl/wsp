@@ -50,10 +50,10 @@ module.exports.connections = {
 
   orangeMysqlServer: {
     adapter: 'sails-mysql',
-    host: 'us-cdbr-iron-east-05.cleardb.net',
-    user: 'bd88807f3cffc3',
-    password: '3f265249',
-    database: 'heroku_500669765fdf4e4'
+    host: 'eu-cdbr-west-02.cleardb.net',
+    user: 'bf7e703433b445',
+    password: 'a1f8a844',
+    database: 'heroku_c28b37f818f9046'
   },
 
   /***************************************************************************
